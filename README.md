@@ -22,7 +22,7 @@ Status: now functional, coverage-verified JSONL logs included
 Outputs: Subj533_phaseC_LLM_scores.csv, phaseC_row_log.jsonl, phaseC_execution_log.json
 
 Getting Started:
-git clone https://github.com/yourname/Subj_533.git
+git clone https://github.com/RayanBVasse/Subj_533.git
 cd Subj_533
 
 Dependencies:
