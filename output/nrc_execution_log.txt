@@ -1,7 +1,0 @@
-=== NRC EXECUTION LOG ===
-Timestamp: 2025-12-20 13:39:48.739627
-Input file: Subj533_msgs_only.csv
-Expected rows: 531
-Rows processed: 531
-Method: NRC Emotion Lexicon
-Status: COMPLETE
