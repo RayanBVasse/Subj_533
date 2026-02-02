@@ -1,0 +1,6 @@
+=== NRC EXECUTION LOG ===
+Timestamp: 2026-01-28 17:47:45.373365
+Input file: Subj533_therapeutic_late_175_msgs.txt
+Rows processed: 175
+Method: NRC Emotion Lexicon
+Status: COMPLETE

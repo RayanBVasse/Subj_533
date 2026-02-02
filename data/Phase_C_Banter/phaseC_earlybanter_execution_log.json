@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-01-18T17:23:08.290353",
+  "input_file": "C:\\Users\\user\\Documents\\_Book-Series\\_GA pub and collab\\6. Life-coach_Sub533\\Banter Analysis\\Subj533_early_banter_only.csv",
+  "input_sha256": "81bfe82dbc41cc50c6dafa50a11a02d63b3e83adfed71362584e32a3c4672de2",
+  "rows_in_file": 307,
+  "rows_processed": 307,
+  "successes": 307,
+  "failures": 0,
+  "coverage_percent": 100.0,
+  "output_file": "C:\\Users\\user\\Documents\\_Book-Series\\_GA pub and collab\\6. Life-coach_Sub533\\banter_results\\Subj533_phaseC_earlybanter.csv",
+  "row_log": "C:\\Users\\user\\Documents\\_Book-Series\\_GA pub and collab\\6. Life-coach_Sub533\\banter_results\\phaseC_earlybanter_row_log.jsonl",
+  "model": "gpt-4.1-mini",
+  "temperature": 0,
+  "max_retries": 3,
+  "retry_sleep_seconds": 2,
+  "prompt_template": "You are performing a structured emotional labeling task.\n\nGiven the text below, return a JSON object with exactly two fields:\n- \"positive_affect\": a float between 0 and 1\n- \"negative_affect\": a float between 0 and 1\n\nDefinitions:\n- positive_affect reflects expressions of joy, calm, trust, hope, or satisfaction.\n- negative_affect reflects expressions of sadness, anxiety, anger, fear, or distress.\n\nText:\n{text}\n\nReturn JSON only. Do not include explanations, commentary, or additional fields."
+}

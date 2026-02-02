@@ -1,0 +1,6 @@
+=== NRC EXECUTION LOG ===
+Timestamp: 2026-01-18 18:39:11.662496
+Input file: Subj533_early_34_banter_only.csv
+Rows processed: 307
+Method: NRC Emotion Lexicon
+Status: COMPLETE

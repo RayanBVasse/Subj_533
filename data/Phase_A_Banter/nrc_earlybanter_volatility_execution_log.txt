@@ -1,0 +1,7 @@
+=== NRC VOLATILITY EXECUTION LOG ===
+Timestamp: 2026-01-18 18:43:50.032895
+Input file: Subj533_earlybanter_nrc_scores.csv
+Rows processed: 307
+Rolling window: 20
+Method: NRC normalization + composite affect + rolling variance
+Status: COMPLETE
