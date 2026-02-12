@@ -1,4 +1,4 @@
-# Subj_533: Longitudinal Conversational Analysis
+# Blind Spots in AI-Based Longitudinal Psychological Inference
 
 Methodological Insights from Deterministic, Supervised, and LLM-Based Approaches
 This repository contains method-validation scripts for a longitudinal psychological text analysis study based on the personal conversational log of an anonymized subject ("Subject 533").
