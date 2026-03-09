@@ -28,3 +28,8 @@ cd Subj_533
 Dependencies:
 pip install -r requirements.txt
 
+# References
+Vasse, R.B. (2026). A Three-Pronged Validation Framework for AI-Based Emotion Extraction: Distinguishing Expressed from Felt Emotion. Zenodo. DOI: 10.5281/ZENODO.18890981 
+Vasse, R.B. (2026). Measuring Within-Person Variation in Written Communication Patterns Across Social Contexts. Zenodo. DOI: 10.5281/ZENODO.18890804 
+Vasse, R.B. (2026). Blind Spots in AI-Based Longitudinal Psychological Inference: A Single-Subject Validation Study. Zenodo. DOI: 10.5281/ZENODO.18825307 
+
